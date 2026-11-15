@@ -4,7 +4,7 @@ A dynamic, responsive portfolio website that integrates with the GitHub API to d
 
 ## Live Demo
 
-View the live portfolio: [https://popam482.github.io/frontend/](https://popam482.github.io/frontend/)
+View the live portfolio: https://popam482.github.io/Portfolio/frontend/
 
 ## Project Overview
 
